@@ -1,0 +1,53 @@
+﻿  main.cpp
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\CollisionDetectUtil.h(55,2): warning C4091: 'static ': ignored on left of 'CollisionDetectUtil' when no variable is declared
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(36,50): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(36,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(73,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(73,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(221,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(221,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(239,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(438,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(637,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\vsrepo\SFML-Tutorial\SFML-Tutorial\main.cpp(642,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  SFML-Tutorial.vcxproj -> D:\vsrepo\SFML-Tutorial\Debug\SFML-Tutorial.exe
